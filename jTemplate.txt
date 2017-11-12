@@ -1,0 +1,25 @@
+package temporary;
+
+//imports
+import java.io.*;
+
+//interfaces
+
+//classes
+public class TempJava{
+//constructors
+
+//methods
+
+//blocks
+
+//enums
+
+//nested
+    
+    public static void main(String args[]) throws IOException{
+
+//code
+
+    }
+}

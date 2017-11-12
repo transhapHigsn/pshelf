@@ -1,0 +1,8 @@
+/__pycache__/
+/bin/
+/clickd/
+/dist/
+/env/
+/build/
+/pshelf/__pycache__/
+pshelf.egg-info
